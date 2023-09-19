@@ -1,2 +1,2 @@
-# X-O-game
-X-O game 
+## X-O game
+# A console X-O game made in c++ 
